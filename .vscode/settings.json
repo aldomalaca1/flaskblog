@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Python38\\python.exe",
+    //Enable html suggestions
+    "html.suggest.html5": true,
+    //Enable html auto-closing tags
+    "html.autoClosingTags":true,
+}
